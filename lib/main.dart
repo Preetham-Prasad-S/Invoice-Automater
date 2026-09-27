@@ -1,4 +1,3 @@
-import 'package:app_prototype/features/template/presentation/screens/upload_template_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
