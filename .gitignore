@@ -46,4 +46,5 @@ app.*.map.json
 
 # Supabase API Key Realted Stuff
 
+/.env
 .env
